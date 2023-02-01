@@ -1,0 +1,49 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.banner img{
+    width:100%;
+    height:100vh;
+}
+.banner .heading{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    font-size: 40px;
+}
+.banner .heading span{
+    color: darkred;
+}
+.banner p1{
+    position: absolute;
+    top: 40%;
+    left:35% ;
+    color: rgb(252, 5, 5);
+}
+.banner p2{
+    position: absolute;
+    color: rgb(17, 252, 9);
+    top: 50%;
+    left:35% ;
+}
+.banner p3{
+    position: absolute;
+    top: 60%;
+    left:35% ;
+    color: rgb(252, 5, 252);
+}
+.banner button{
+    position: absolute;
+    top: 70%;
+    left:40% ;
+    font-size: 15px;
+    color: red;
+    background-color: yellowgreen;
+    box-sizing: 15px;
+}
+
+
